@@ -26,3 +26,4 @@ dist-ssr
 *.sw?
 .husky/pre-commit
 package-lock.json
+.vercel
